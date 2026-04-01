@@ -80,23 +80,19 @@ Transport for NSW Open Data — Driver Licence Statistics
 
 ### 1. Transaction Types
 ![Transaction Types](nsw-licence-dashboard/visual1_transaction_types.png)
-> Renewals dominate NSW licence transactions. Service NSW should 
-> prioritise renewal workflow efficiency above all other transaction types.
+Licence renewals dominate NSW driver licence transactions in 2024, accounting for the vast majority of volume. This suggests Service NSW should prioritise renewal workflow efficiency over processing capacity for new licence types.
 
 ### 2. Age Group Analysis
 ![Age Group](nsw-licence-dashboard/Visual2_Age_Analysis.png_)
-> The 25–34 age group drives the highest volume. Young drivers 
-> aged 16–20 show distinct P1/P2 graduation patterns.
+The 25–34 age group drives the highest licence transaction volume in NSW, with renewals dominating across all age groups. Notably, 16–20 year olds show a distinct pattern of P1 and P2 graduation transactions, reflecting the structured progression of young drivers through the NSW licensing system. Suspension transactions are concentrated in the 25–44 working-age bracket, suggesting targeted intervention programs in this group could reduce reprocessing demand on Service NSW centres
 
 ### 3. Monthly Trend
 ![Monthly Trend](nsw-licence-dashboard/Visual3_Monthly_Trend.png)
-> Transaction volumes are stable around 7K/month with dips in 
-> June and September — likely linked to seasonal behaviour.
+NSW driver licence transaction volumes remained broadly stable throughout 2024, averaging around 7,000 transactions per month. Notable dips in June and September suggest seasonal demand reduction, potentially linked to school holiday periods or public holiday clusters. Service NSW could use this pattern to plan staffing and resource allocation more efficiently across the calendar year
 
 ### 4. Top 10 LGAs
 ![Top 10 LGAs](nsw-licence-dashboard/Visual4_top10_NSW_LGA.png)
-> Western Sydney LGAs dominate demand. Blacktown alone accounts 
-> for significantly more transactions than any other LGA.
+Blacktown LGA generates the highest driver licence transaction volume in NSW, nearly 20% above the next highest LGAs of Canterbury-Bankstown and Central Coast. The top 10 LGAs are dominated by Western Sydney councils, reflecting population density and growth corridors. These insights could inform Service NSW's decisions around service centre resourcing, digital channel investment, and mobile service deployment in high-demand areas.
 
 ## Tools & Methodology
 - **Python (Pandas)** — combined 12 monthly CSV files into one 
