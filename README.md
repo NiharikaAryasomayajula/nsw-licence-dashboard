@@ -22,7 +22,7 @@ and where are the key pressure points for service delivery?
 👉 [View on Tableau Public](https://public.tableau.com/views/NSW-Driver-Licence-Analytics-2024/Dashboard1)
 
 ## Dashboard Preview
-![Dashboard Overview](Visual5_Dashboard.png)
+![Dashboard Overview](nsw-licence-dashboard/Visual5_Dashboard.png)
 
 ## Key Findings
 - **Renewals dominate** transaction volume, representing the 
@@ -37,22 +37,22 @@ and where are the key pressure points for service delivery?
 ## Visuals
 
 ### 1. Transaction Types
-![Transaction Types](visual1_transaction_types.png)
+![Transaction Types](nsw-licence-dashboard/visual1_transaction_types.png)))
 > Renewals dominate NSW licence transactions. Service NSW should 
 > prioritise renewal workflow efficiency above all other transaction types.
 
 ### 2. Age Group Analysis
-![Age Group](Visual2_Age_Analysis.png)
+![Age Group](nsw-licence-dashboard/Visual2_Age_Analysis.png
 > The 25–34 age group drives the highest volume. Young drivers 
 > aged 16–20 show distinct P1/P2 graduation patterns.
 
 ### 3. Monthly Trend
-![Monthly Trend](Visual3_Monthly_Trend.png)
+![Monthly Trend](nsw-licence-dashboard/Visual3_Monthly_Trend.png)
 > Transaction volumes are stable around 7K/month with dips in 
 > June and September — likely linked to seasonal behaviour.
 
 ### 4. Top 10 LGAs
-![Top 10 LGAs](Visual4_top10_NSW_LGA.png)
+![Top 10 LGAs](nsw-licence-dashboard/Visual4_top10_NSW_LGA.png)
 > Western Sydney LGAs dominate demand. Blacktown alone accounts 
 > for significantly more transactions than any other LGA.
 
@@ -79,22 +79,22 @@ Transport for NSW Open Data — Driver Licence Statistics
 ## Visuals
 
 ### 1. Transaction Types
-![Transaction Types](visual1_transaction_types.png)
+![Transaction Types](nsw-licence-dashboard/visual1_transaction_types.png)
 > Renewals dominate NSW licence transactions. Service NSW should 
 > prioritise renewal workflow efficiency above all other transaction types.
 
 ### 2. Age Group Analysis
-![Age Group](Visual2_Age_Analysis.png)
+![Age Group](nsw-licence-dashboard/Visual2_Age_Analysis.png_)
 > The 25–34 age group drives the highest volume. Young drivers 
 > aged 16–20 show distinct P1/P2 graduation patterns.
 
 ### 3. Monthly Trend
-![Monthly Trend](Visual3_Monthly_Trend.png)
+![Monthly Trend](nsw-licence-dashboard/Visual3_Monthly_Trend.png)
 > Transaction volumes are stable around 7K/month with dips in 
 > June and September — likely linked to seasonal behaviour.
 
 ### 4. Top 10 LGAs
-![Top 10 LGAs](Visual4_top10_NSW_LGA.png)
+![Top 10 LGAs](nsw-licence-dashboard/Visual4_top10_NSW_LGA.png)
 > Western Sydney LGAs dominate demand. Blacktown alone accounts 
 > for significantly more transactions than any other LGA.
 
