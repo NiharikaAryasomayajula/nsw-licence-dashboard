@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
-
 import pandas as pd
 import glob
 import os
@@ -30,7 +24,7 @@ print(combined['YEAR_MONTH'].unique())
 combined.to_csv(folder_path + "2024_combined.csv", index=False)
 
 
-# In[ ]:
+
 
 
 
