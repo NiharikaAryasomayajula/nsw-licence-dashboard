@@ -72,6 +72,3 @@ Blacktown LGA generates the highest driver licence transaction volume in NSW, ne
 - **Tableau Public** — built 4 interactive visualisations 
   combined into a single dashboard
 
-## Data Source
-Transport for NSW Open Data — Driver Licence Statistics
-[opendata.transport.nsw.gov.au](https://opendata.transport.nsw.gov.au)
